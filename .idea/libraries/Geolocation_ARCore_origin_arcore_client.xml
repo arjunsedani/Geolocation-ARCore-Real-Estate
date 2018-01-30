@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Geolocation-ARCore-origin:arcore_client">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/6b9f5a954b416f0dfaf407e43d786afdd399b8e1/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/6b9f5a954b416f0dfaf407e43d786afdd399b8e1/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/6b9f5a954b416f0dfaf407e43d786afdd399b8e1/output/jars/libs/arcore_client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sedani.ab\androidapps\Geolocation-ARCore-origin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="97add368e2a5ff3bd384ca326117f90c9e924bdb">
+        <dex dex="C:\Users\sedani.ab\androidapps\Geolocation-ARCore-origin\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d722202873c83094fc477c12b3573be544724788\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sedani.ab\.android\build-cache\6b9f5a954b416f0dfaf407e43d786afdd399b8e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="889352e4b8098411a2d5734e26fd3db16ceb1d9e">
+        <dex dex="C:\Users\sedani.ab\androidapps\Geolocation-ARCore-origin\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4f41ab2a336925a4dc383e79f6efc1c4d9fc315\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sedani.ab\.android\build-cache\6b9f5a954b416f0dfaf407e43d786afdd399b8e1\output\jars\libs\arcore_client.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="033d5155085fe9cb58612f4e899182c0b08ca0b7">
+        <dex dex="C:\Users\sedani.ab\androidapps\Geolocation-ARCore-origin\app\build\intermediates\transforms\dex\debug\folders\1000\10\arcore_client_c44918b165f9402fa4c2f68ea02280862524ce48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sedani.ab\androidapps\Geolocation-ARCore-origin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\sedani.ab\androidapps\Geolocation-ARCore-origin\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_dc9507b56d819fabaae63efcb96350b00a0e5044\classes.dex" />
+    </item>
+
+</items>

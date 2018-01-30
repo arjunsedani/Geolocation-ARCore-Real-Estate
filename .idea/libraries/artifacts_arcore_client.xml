@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="artifacts:arcore_client">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/f26bf52d72ccac750ab77f627a9c57ed/jars/libs/arcore_client.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/f26bf52d72ccac750ab77f627a9c57ed/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/f26bf52d72ccac750ab77f627a9c57ed/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
